@@ -1,0 +1,38 @@
+_repo: Off-Hand-Sketches-a-Little-Dashed-with-Humor_4624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Arthur, Timothy Shay
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: The circuit-preacher -- The protest -- Retrenchment; or, what a man
+  saved by stopping his newspaper -- Hunting up a testimonial -- Trying to be a gentleman
+  -- Taking a prescription -- The Yankee and the Dutchman; or, I'll give or take --
+  A tipsy parson -- Much ado about nothing; or, the reason why Mrs. Todd didn't speak
+  to Mrs. Jones -- Almost a tragedy -- That John Mason -- A new way to collect an
+  old debt -- A shocking bad memory -- Driving a hard bargain -- Out of the frying-pan
+  into the fire; or, the love of a house -- Marrying a count -- Job's comforters;
+  or, the lady with the nerves -- The code of honour -- Treating a case actively.
+title: Off-Hand Sketches, a Little Dashed with Humor
+url: http://www.gutenberg.org/ebooks/4624
